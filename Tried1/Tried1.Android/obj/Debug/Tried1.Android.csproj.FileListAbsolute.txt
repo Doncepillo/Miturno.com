@@ -99,6 +99,7 @@ C:\Users\exe_6\Desktop\miturno.com\AppMiturno.com\Tried1\Tried1\Tried1.Android\o
 C:\Users\exe_6\Desktop\miturno.com\AppMiturno.com\Tried1\Tried1\Tried1.Android\obj\Debug\android\assets\Xamarin.Forms.Core.pdb
 C:\Users\exe_6\Desktop\miturno.com\AppMiturno.com\Tried1\Tried1\Tried1.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.pdb
 C:\Users\exe_6\Desktop\miturno.com\AppMiturno.com\Tried1\Tried1\Tried1.Android\bin\Debug\Tried1.Android.dll
+C:\Users\exe_6\Desktop\miturno.com\AppMiturno.com\Tried1\Tried1\Tried1.Android\obj\Debug\linksrc\Tried1.pdb
 C:\Users\exe_6\Desktop\miturno.com\AppMiturno.com\Tried1\Tried1\Tried1.Android\obj\Debug\linksrc\Tried1.Android.dll.mdb
 C:\Users\exe_6\Desktop\miturno.com\AppMiturno.com\Tried1\Tried1\Tried1.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
 C:\Users\exe_6\Desktop\miturno.com\AppMiturno.com\Tried1\Tried1\Tried1.Android\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
